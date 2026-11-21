@@ -1,0 +1,6 @@
+id=qprof_autostart
+name=Qualcomm Profiler qprof AutoStart
+version=2.4.2
+versionCode=17
+author=Codex
+description=Keep Qualcomm Profiler files in module storage and start qprof after boot

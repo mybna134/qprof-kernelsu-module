@@ -1,0 +1,1 @@
+# qprof runs in KernelSU's root SELinux domain; no extra policy is required.
